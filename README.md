@@ -25,7 +25,8 @@ Etape 2 - Pour lancer le bot lancer : "start.bat"
 
 # Contact : 
 > Discord ID : 953327898092249098
+
 > ! 𒋝Hisxokaq#6164                     
 
 
-![image](https://media.discordapp.net/attachments/945746542424387615/945778865727479958/20220205_130153.gif)
+![image](https://images-ext-1.discordapp.net/external/Pbrc3mRjME76YmYgYHSQgP6rOI5PSrTkew_AJ6maWV0/%3Fsize%3D4096/https/cdn.discordapp.com/banners/953327898092249098/0e85b2c850f0f8ddd3b86d8eba880644.png)
