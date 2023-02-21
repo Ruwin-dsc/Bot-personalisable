@@ -4,7 +4,9 @@ Nouveau moyen de proteger vos serveur facile d'utilisation
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/93615583/182429516-91816733-366c-4fc2-b4cd-34a7362fe06c.png)
+Les émoji ici n'ont pas était config
+
+![image](https://media.discordapp.net/attachments/1058647101996802120/1077539238930813008/image.png)
 
 # Config
 
